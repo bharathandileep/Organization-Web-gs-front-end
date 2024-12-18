@@ -1,0 +1,13 @@
+/* src/styles/LoadingPage.css */
+.loading-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa; /* or any background color you prefer */
+  }
+  
+  .loading-content {
+    text-align: center;
+  }
+  
