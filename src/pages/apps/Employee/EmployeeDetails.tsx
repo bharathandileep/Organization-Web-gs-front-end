@@ -1713,7 +1713,7 @@ return (
                   <b>Job Title:</b> {employee.job_title}
                 </p>
                 <p className="mb-0">
-                  <b>Department:</b> {employee.hire_date}
+                  {/* <b>Department:</b> {employee.hire_date} */}
                 </p>
               </div>
             </div>
