@@ -14,7 +14,7 @@ const MessageList = (props: MessageListProps) => {
   const children = props.children || null;
 
   return (
-    <>
+<>
     {/* // <SimpleBar style={{ maxHeight: "407px" }}>
     //   <div className={classNames("inbox-widget", props.className)}>
     //     {children}
